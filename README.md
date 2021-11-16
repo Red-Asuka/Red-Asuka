@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning JavaScript & Games & Drawing, and want to learn everything interesting.
 - ❤️ I like eating 🍓, playing 🏸, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture))
-- 🚢 Read more about my [Blog](https://catbk.cn/)
+- 🚢 Read more about my [Blog](https://liyd.net/)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
