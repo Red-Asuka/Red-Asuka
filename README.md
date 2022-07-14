@@ -1,11 +1,11 @@
-<h1 align="center"> Hello! 👋  I'm <a href="https://catbk.cn/">Asuka</a>!</h1>
-<h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</h1>
+<h1 align="center"> 𝑯𝒆𝒍𝒍𝒐! 👋  𝑰'𝒎 <a href="https://liyd.net/">𝑨𝒔𝒖𝒌𝒂</a>!</h1>
+<h1 align="center">𝒂 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</h1>
 
 - 🌱 I’m currently learning JavaScript & Games & Drawing, and want to learn everything interesting.
 - ❤️ I like eating 🍓, playing 🏸, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture))
 - 🚢 Read more about my [Blog](https://liyd.net/)
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝑴𝒚 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
@@ -28,7 +28,7 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+## 𝑺𝒕𝒂𝒕𝒔
 
 <p align="left">
 <img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=Red-Asuka&show_icons=true&hide=stars&count_private=true">
