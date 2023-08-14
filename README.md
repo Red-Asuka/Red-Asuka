@@ -31,6 +31,6 @@
 ## 𝑺𝒕𝒂𝒕𝒔
 
 <p align="left">
-<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=Red-Asuka&show_icons=true&hide=stars&count_private=true">
+<img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api?username=Red-Asuka&hide=stars&count_private=true&include_all_commits=true&show_icons=true">
 <img alt="ouuan's github stats" height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Asuka&hide=python">
 </p>
